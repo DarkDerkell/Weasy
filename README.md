@@ -1,4 +1,5 @@
-
+## Weasy
+ A simple weather app for Android.
  It gathers data from [OpenWeatherMap](http://openweathermap.org/), via their public API.
 
 
